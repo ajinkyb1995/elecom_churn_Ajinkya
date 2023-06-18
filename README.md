@@ -1,4 +1,4 @@
-# telecom_churn_pratik
+# telecom_churn_Ajinkya
 telecom_churn_upgrad_assignment
 Introduction and Problem Statement
 Business problem overview
